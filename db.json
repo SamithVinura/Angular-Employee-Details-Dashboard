@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "samith vinura",
+      "lastName": "aberathne",
+      "email": "samith@gmail.com",
+      "mobile": "0701651569",
+      "salary": "81000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "samith vinura",
+      "email": "samith@gmail.com",
+      "password": "123456",
+      "mobile": 719591462,
+      "id": 1
+    },
+    {
+      "fullname": "samith vinura",
+      "email": "samithvinura@gmail.com",
+      "password": "123456",
+      "mobile": 701651569,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
